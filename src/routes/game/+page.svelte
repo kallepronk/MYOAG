@@ -1,1 +1,1 @@
-Page game here!
+<p>No game Id given!</p>
